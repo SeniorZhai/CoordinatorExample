@@ -40,7 +40,7 @@
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#ff0000"
+        android:background="#967ADC"
         android:gravity="center"
         android:text="Hello World"
         android:textColor="#ffffff"
